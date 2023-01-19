@@ -2,7 +2,11 @@
   "files.associations": {
     "utility": "cpp",
     "iostream": "cpp",
-    "ostream": "cpp"
+    "ostream": "cpp",
+    "exception": "cpp",
+    "memory": "cpp",
+    "tuple": "cpp",
+    "xstring": "cpp"
   },
   "C_Cpp.errorSquiggles": "disabled"
 }
