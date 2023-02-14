@@ -6,7 +6,8 @@
     "exception": "cpp",
     "memory": "cpp",
     "tuple": "cpp",
-    "xstring": "cpp"
+    "xstring": "cpp",
+    "xutility": "cpp"
   },
   "C_Cpp.errorSquiggles": "disabled"
 }

@@ -1,3 +1,6 @@
+// T.c => O(n2)
+// S.c => O(1)
+
 class Solution
 {
 public:
